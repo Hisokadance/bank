@@ -1,6 +1,5 @@
 package com.bank.antifraud.service;
 
-
 import com.bank.antifraud.dto.PhoneTransferDTO;
 import com.bank.antifraud.entity.PhoneTransfer;
 
